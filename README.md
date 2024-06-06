@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact:I am evolving as Linkedin content creator<a href="linkedin.com/in/sana-cs" target="blank">Savage Programmer</a></br>
 🌱 I’m currently learning <strong>Networking,Canva for content creation </strong></br>
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username-SanaUber&show_icons-true" alt="SanaSiddiqui">
+ <img src="https://github-readme-stats.vercel.app/api?username=SanaUber&show_icons-true" alt="SanaSiddiqui">
 </p>
