@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💬My Proficiency <strong>Angular, JavaScript ,HtML,CSS,MSSQL and .NET7 </strong></br>
 🤔My Fimilarty <strong>Java, PHP ,MYSQL ,React,node.js,express.js </strong></br>
 📫 How to reach me:<a href="https://github.com/SanaUber" target="blank">Sana </a></br>
-⚡ Fun fact:I am evolving as Linkedin content creator<a href="linkedin.com/in/sana-cs" target="blank">My Content posts</a></br>
+⚡ Fun fact:I am evolving as Linkedin content creator<a href="www.linkedin.com/in/sana-cs" target="blank">My Content posts</a></br>
 🌱 I’m currently learning <strong>Networking,Canva for content creation </strong></br>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=SanaUber&show_icons-true" alt="SanaSiddiqui">
