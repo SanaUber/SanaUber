@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hi align="center">Hi there, I am Sana Siddiqui</h1>
+🔭I'm currently working with <a href="https://www.ridewaretech.com/" target="blank">Rideware</a>
+💬My Proficiency <strong>Angular, JavaScript ,HtML,CSS,MSSQL and .NET7 </strong>
+🤔My Fimilarty <strong>Java, PHP ,MYSQL ,React,node.js,express.js </strong>
+📫 How to reach me:<a href="https://github.com/SanaUber" target="blank">Sana </a>
+⚡ Fun fact:I am evolving as Linkedin content creator<a href="linkedin.com/in/sana-cs" target="blank">Savage Programmer</a>
+🌱 I’m currently learning <strong>Networking,Canva for content creation </strong>
+ <img src="https://github-readme-stats.vercel.app/api?username-SanaUber&show_icons-true" alt="SanaSiddiqui">
