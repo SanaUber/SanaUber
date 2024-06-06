@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=SanaUber&show_icons-true" alt="SanaSiddiqui">
 </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/sana-cs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a> 33 &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
