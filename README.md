@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hi align="center">Hi there, I am Sana Siddiqui</h1>
+<hi align="center">Hi there, I am Sana Siddiqui</h1></br>
 🔭I'm currently working with <a href="https://www.ridewaretech.com/" target="blank">Rideware</a>
 💬My Proficiency <strong>Angular, JavaScript ,HtML,CSS,MSSQL and .NET7 </strong>
 🤔My Fimilarty <strong>Java, PHP ,MYSQL ,React,node.js,express.js </strong>
