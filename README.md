@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 📫 How to reach me:<a href="https://github.com/SanaUber" target="blank">Sana </a>
 ⚡ Fun fact:I am evolving as Linkedin content creator<a href="linkedin.com/in/sana-cs" target="blank">Savage Programmer</a>
 🌱 I’m currently learning <strong>Networking,Canva for content creation </strong>
+<p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username-SanaUber&show_icons-true" alt="SanaSiddiqui">
+</p>
