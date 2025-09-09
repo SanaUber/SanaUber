@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hi align="center">Hi there, I am Sana Siddiqui</h1></br>
-🔭I'm currently working with <a href="https://www.crowe.com/" target="blank">cROWE UAE -AUG 2025</a></br>
-💬My Proficiency <strong>Angular, JavaScript ,HtML,CSS,MSSQL and .NET7 </strong></br>
+🔭I'm currently working with <a href="https://www.crowe.com/" target="blank">CROWE UAE -AUG 2025</a></br>
+💬My Proficiency <strong>AngularJS/12/17, JavaScript,tYPESCRIPT,NGRX,RXJS ,HtML,CSS,MSSQL and .NET7/8,MIDDLEWARE </strong></br>
 🤔My Fimilarty <strong>Java, PHP ,MYSQL ,React,node.js,express.js </strong></br>
 📫 How to reach me:<a href="https://github.com/SanaUber" target="blank">Sana </a></br>
 ⚡ Fun fact:I am evolving as Linkedin content creator<a href="https://www.linkedin.com/in/sana-cs/" target="blank">My Content posts</a></br>
